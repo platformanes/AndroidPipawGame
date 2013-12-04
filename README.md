@@ -8,10 +8,12 @@
 ## 编写ANE过程
 
 >  参照我博客的教程[传送门](http://www.shadowkong.com/archives/1090)
+>
+>  参照 `AndroidPipawGame\buildANE\ane_packer.bat`中的命令 其中adt路径修改为你的本地路径
 
 ## 打包APK过程
 
->  参照 `AndroidPipawGame\buildAPK\.bat`中的命令 其中adt路径修改为你的本地路径
+>  参照 `AndroidPipawGame\buildAPK\pipaw_apk.bat`中的命令 其中adt路径修改为你的本地路径
 >
 > 注意查看sample -app.xml参数配置
 
