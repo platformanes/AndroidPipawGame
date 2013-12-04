@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/pipaw/ane/PipawEvents" mod="1386036790437" signatureChecksum="2356368372" >
+        <def id="com.pipaw.ane:PipawEvents" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <script name="com/pipaw/ane/PipawExtension" mod="1386121917562" signatureChecksum="1171499330" >
+        <def id="com.pipaw.ane:PipawExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_f6473589ba523463c5aadf2a55d8b1b379021e265d79cd2d6a38fbae109c6dbc_flash_display_Sprite" mod="1386121944312" signatureChecksum="3874519885" >
+        <def id="_f6473589ba523463c5aadf2a55d8b1b379021e265d79cd2d6a38fbae109c6dbc_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="de3c9a8f79b047e822f8671820538037499c8cb64f14f0ba2247c17e553b2ab0"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
